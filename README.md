@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meghamala07
+- 👋 Hi, I’m Meghamala
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning c programming 
 - 💞️ I’m looking to collaborate on ... Google 
